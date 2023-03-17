@@ -251,5 +251,3 @@ def get_exchange_rates():
 
 
 
-
-app.run()
